@@ -1,9 +1,6 @@
 def my_hash
-  my_hash = ["name" => tracey]
+  your_hash = ["name" => tracey]
   puts my_hash
-
-
-
 end
 
 
