@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = [] 
+  my_hash = {"name"=> "pretty"}
   puts my_hash
 end
 
